@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Demo App</string>
+    <string name="about">О программе</string>
+    <string name="about_message">Weather App Demo 1.0.0\n\nСделано bernd32 с целью практики использования Retrofit и RxJava.\n\nМой Github: https://github.com/bernd32\nEmail: fallentides@outlook.com</string>
+    <string name="add">Добавить</string>
+    <string name="add_a_new_city">Добавить новый город:</string>
+    <string name="add_new_location">"Добавить новое местоположение… "</string>
+    <string name="all_items_deleted_msg">Очищено</string>
+    <string name="city_name">Название города (например: Екатеринбург)</string>
+    <string name="current_location">Текущее местоположение</string>
+    <string name="delete_all">Очистить</string>
+    <string name="delete_item_msg">Местоположение удалено</string>
+    <string name="empty_message">Список пуст…</string>
+    <string name="enter_a_city">Введите название города</string>
+    <string name="error">Ошибка</string>
+    <string name="humidity">Влажность</string>
+    <string name="icon">Иконка</string>
+    <string name="location">Местоположение</string>
+    <string name="location_turned_off">Включить локацию</string>
+    <string name="pressure">Давление</string>
+    <string name="save">Сохранить</string>
+    <string name="tab_text_1">Текущая погода</string>
+    <string name="tab_text_2">Прогноз</string>
+    <string name="tooltip_msg">Свайпните элемент для удаления</string>
+    <string name="turn_on_location">Включить локацию</string>
+    <string name="update">Обновить</string>
+    <string name="updated_msg">Обновлено</string>
+    <string name="weather_icon">Иконка</string>
+    <string name="wind">Скорость ветра</string>
+    <string name="meters_per_second">м/с</string>
+    <string name="pressure_unit">гПа</string>
+</resources>
