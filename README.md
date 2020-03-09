@@ -26,6 +26,7 @@ A simple weather app made for testing and practicing Retrofit and RxJava. It use
 
 ## How to use
 Download and install `.apk` file from [the latest release](https://github.com/bernd32/android-weather-demo-app/releases). 
+To build the project from source files, you have to obtain API key from here: https://openweathermap.org/api and then add it to `Constants.java` file. 
 
 ## About me
 I'm a beginner to programming and (at least at this point of time) developing applications for Android is just one of my hobbies. This application is my first training project, so the source code is pretty dirty, but I tried to follow the main principles of MVP architectural pattern.
