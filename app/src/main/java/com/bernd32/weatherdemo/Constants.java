@@ -5,6 +5,6 @@ package com.bernd32.weatherdemo;
  */
 public class Constants {
     public static final String BASE_URL = "http://api.openweathermap.org";
-    public static final String API_KEY = "8296eaaa0ef012da8f776aa0ec890817";
+    public static final String API_KEY = ""; // Get a free API key from here: https://openweathermap.org/appid
 
 }
